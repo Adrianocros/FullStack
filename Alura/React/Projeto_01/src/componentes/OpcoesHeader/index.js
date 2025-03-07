@@ -1,5 +1,5 @@
 import './style.css'
-const textoOpcoes = ['CATEGORIAS','FAVORITOS','MINHA ESTANTE','BIBLIOTECA']
+const textoOpcoes = ['CATEGORIAS','FAVORITOS','MINHA ESTANTE','BIBLIOTECA','OPCOES']
 
 function OpcoesHeader(){
     return(
